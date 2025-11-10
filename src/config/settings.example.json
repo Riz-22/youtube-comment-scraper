@@ -1,0 +1,9 @@
+{
+  "youtubeApiKey": "YOUR_YOUTUBE_DATA_API_V3_KEY",
+  "maxCommentsPerVideo": 200,
+  "logLevel": "INFO",
+  "outputDirectory": "data",
+  "outputFormats": ["json", "csv", "xlsx"],
+  "requestTimeoutSeconds": 10,
+  "concurrentRequests": 1
+}

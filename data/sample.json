@@ -1,0 +1,10 @@
+[
+    {
+        "content": "This is a sample comment",
+        "author": "SampleUser",
+        "commentId": "sample_comment_1",
+        "publishedTime": "1 hour ago",
+        "likeCount": 15,
+        "replyCount": 2
+    }
+]

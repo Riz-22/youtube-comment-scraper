@@ -1,0 +1,4 @@
+# Sample input file for the scraper
+# Add YouTube video URLs here, one per line
+https://www.youtube.com/watch?v=example_video_1
+https://www.youtube.com/watch?v=example_video_2
